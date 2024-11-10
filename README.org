@@ -1,0 +1,7 @@
+#+title: Flake Templates
+
+Usage:
+
+#+begin_src shell
+nix flake init -t github:hegde-atri/flake-templates#<template-name>
+#+end_src
